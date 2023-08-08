@@ -1,0 +1,6 @@
+example_id                              | status | run_time        |
+--------------------------------------- | ------ | --------------- |
+./spec/requests/consoles_spec.rb[1:1:1] | passed | 0.00078 seconds |
+./spec/requests/consoles_spec.rb[1:1:2] | passed | 0.05367 seconds |
+./spec/requests/status_spec.rb[1:1:1]   | passed | 0.00306 seconds |
+./spec/test_spec.rb[1:1:1]              | passed | 0.00084 seconds |
